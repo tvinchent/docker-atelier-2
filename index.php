@@ -2,7 +2,7 @@
 // Paramètres de connexion à la base de données
 $dsn = 'mysql:host=db;dbname=docker;charset=utf8';
 $db_user = 'root';
-$db_password = 'exemple';
+$db_password = '';
 
 try {
     // Création d'une instance PDO
